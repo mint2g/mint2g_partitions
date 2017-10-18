@@ -1,3 +1,5 @@
+
+```
 Partition name                 Partition       512-byte blocks   Bytes      MB (^2)
 
 ProductInfo1      ->   /dev/block/mmcblk0p1                 7680   3932160         3.75
@@ -26,3 +28,7 @@ MODEM             ->   /dev/block/mmcblk0p24               20480   10485760     
 userdata          ->   /dev/block/mmcblk0p25             4243456 2172649472        2072
 PIT               ->   /dev/block/mmcblk0p26                  16      8192   0.0078125
 MD5HDR            ->   /dev/block/mmcblk0p27                2048   1048576            1
+```
+
+From:
+https://forum.xda-developers.com/showthread.php?t=2462785
